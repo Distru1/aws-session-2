@@ -1,4 +1,4 @@
-name: Python boto test
+name: Python boto test2
 on:
   push:
     branches:
